@@ -1,0 +1,24 @@
+# API credentials
+
+.env
+*.env
+
+# Power BI temporary files
+
+*.pbi.local
+*.pbicache
+
+# Excel temporary files
+
+~$*.xlsx
+~$*.xls
+
+# Temporary files
+
+*.tmp
+*.temp
+
+# OS files
+
+.DS_Store
+Thumbs.db
