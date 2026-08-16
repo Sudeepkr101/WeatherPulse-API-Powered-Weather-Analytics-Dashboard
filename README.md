@@ -23,12 +23,10 @@ WeatherPulse is a weather analytics project that uses a free weather API as an e
 
 ## Tech Stack
 
-* Free Weather API
-* Microsoft Power BI
-* Power Query
-* Microsoft Excel
-* API-based data collection
-* Data transformation and visualization
+- **Weather API** — External weather and forecast data source
+- **Microsoft Power BI** — Data modeling, visualization and interactive reporting
+- **Power Query** — Data extraction, expansion and transformation
+- **Microsoft Excel** — Storage of prepared weather datasets
 
 ## Data Workflow
 
